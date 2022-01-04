@@ -43,5 +43,5 @@
 2. Wide experience.
 3. Good relationship.
 4. Good communication attitude.
-6. Can accept any opinion but just have old age.
+6. Can accept any opinion.
 7. I am 40's.
