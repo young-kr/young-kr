@@ -1,6 +1,6 @@
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Node.js,React,Electron)](https://github.com/young-kr)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=What%20I%20am%20VERY%20GOOD%20at&badges=Node.js,React,Redux-Saga,Electron,Express.js,AWS%20Lambda,AWS%20API%20Gateway,AWS%20DynamoDB,AWS%20SQS,AWS%20S3,AWS%20Cognito,AWS%20AppSync,AWS%20Amplify)](https://github.com/young-kr)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=What%20I%20am%20VERY%20GOOD%20at&badges=Node.js,React,Redux-Saga,Electron,Express.js,AWS%20Lambda,AWS%20API%20GW,AWS%20DynamoDB,AWS%20SQS,AWS%20S3,AWS%20Cognito,AWS%20AppSync,AWS%20Amplify)](https://github.com/young-kr)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Also%20I%20can%20do&badges=React%20Native,HTML5,CSS3,PHP,JSP,MySQL,MariaDB,Linux,NginX)](https://github.com/young-kr)
 
 <!-- [![Repository Card](https://widget.realdeveloper.pro/api/card?user=young-kr&repo=adserver-tutorial&locale=en)](https://github.com/young-kr/adserver-tutorial)
