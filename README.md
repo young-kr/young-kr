@@ -15,26 +15,33 @@
   - Project Leader
   - NodeJS, ExpressJS, Electron, React, Redux
   - Alibaba Cloud(VPS)
-  - Linux, NginX, MySQL(MariaDB)
-* Self employed
+  - Linux(Ubuntu), NginX, MySQL(MariaDB)
+* Local community website part #2
   - Feb 2012 ~ Nov 2015
-  - PHP, MySQL
-* Next
+  - Self employed
+  - PHP, MySQL Linux(CentOS), Python(web crawling)
+* Local community website part #1
+  - Jul 2011 ~ Jan 2012
+  - Project Leader
+  - JSP, PHP, MySQL
+* Web programming
+  - Aug 2008 ~ Mar 2011
+  - Team Member
+  - JSP, Spring framework, JEUS, Tibero
+* Firmware programming part #2
+  - Nov 2006 ~ Aug 2008
+  - Touch screen controller firmware
+  - ANSI C
+  - ATMEGA 128, etc...
+* Firmware programming part #2
+  - Jan 2005 ~ Nov 2006
+  - CCD control firmware
+  - ANSI C
 
-<!-- [![Repository Card](https://widget.realdeveloper.pro/api/card?user=young-kr&repo=adserver-tutorial&locale=en)](https://github.com/young-kr/adserver-tutorial)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=young-kr&repo=one-page-template&locale=en)](https://github.com/young-kr/one-page-template) -->
-
-<!--
-**young-kr/young-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PROS and CONS
+1. Able to remove most of variables to show up root cause clearly from various perspectives.
+2. Wide experience.
+3. Good relationship.
+4. Good communication attitude.
+6. Can accept any opinion but just have old age.
+7. I am 40's.
