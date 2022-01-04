@@ -5,9 +5,21 @@
 
 #### Experience
 * Cloud IT
-  - 2020-03-16 ~ currently working
+  - Mar 2020 ~ currently working
+  - Team Member
+  - NodeJS, React, Redux-Saga
   - Serverless framework
-  - AWS services(Lambda, DynamoDB, etc...)
+  - AWS services(Lambda, DynamoDB, API Gateway, etc...)
+* POS(Point Of Sales) software
+  - Nov 2015 ~ Jan 2020
+  - Project Leader
+  - NodeJS, ExpressJS, Electron, React, Redux
+  - Alibaba Cloud(VPS)
+  - Linux, NginX, MySQL(MariaDB)
+* Self employed
+  - Feb 2012 ~ Nov 2015
+  - PHP, MySQL
+* Next
 
 <!-- [![Repository Card](https://widget.realdeveloper.pro/api/card?user=young-kr&repo=adserver-tutorial&locale=en)](https://github.com/young-kr/adserver-tutorial)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=young-kr&repo=one-page-template&locale=en)](https://github.com/young-kr/one-page-template) -->
