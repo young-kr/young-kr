@@ -10,22 +10,25 @@
   - NodeJS, React, Redux-Saga
   - Serverless framework
   - AWS services(Lambda, DynamoDB, API Gateway, etc...)
-* POS(Point Of Sales) software
+* POS(Point Of Sales) software (in Australia)
   - Nov 2015 ~ Jan 2020
   - Project Leader
   - NodeJS, ExpressJS, Electron, React, Redux
   - Alibaba Cloud(VPS)
   - Linux(Ubuntu), NginX, MySQL(MariaDB)
-* Local community website part #2
+* Web programming #3 (in Australia)
   - Feb 2012 ~ Nov 2015
+  - Local community website development
   - Self employed
   - PHP, MySQL Linux(CentOS), Python(web crawling)
-* Local community website part #1
+* Web programming #2 (in Australia)
   - Jul 2011 ~ Jan 2012
+  - Local community website development
   - Project Leader
   - JSP, PHP, MySQL
-* Web programming
+* Web programming #1
   - Aug 2008 ~ Mar 2011
+  - SI for public institutions
   - Team Member
   - JSP, Spring framework, JEUS, Tibero
 * Firmware programming part #2
